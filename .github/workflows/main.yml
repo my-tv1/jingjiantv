@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: '0 6,18 * * *'  # 每天北京时间 14:00 和 02:00 运行
   workflow_dispatch:  # 允许手动触发
-
 jobs:
   update:
     runs-on: ubuntu-latest
