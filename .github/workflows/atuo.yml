@@ -1,0 +1,24 @@
+on:
+  push:
+    # delete this item if you don't want to trigger this workflow when modify this repo
+    branches: main
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # UTC 17:00 -> CST (China) 1:00, see https://datetime360.com/cn/utc-cst-china-time/
+    - cron: '0 6,18 * * *'  # 每天北京时间 14:00 和 02:00 运行
+  workflow_dispatch:  # 允许手动触发
+name: Mirror GitHub Auto Queried Repos to Gitee
+jobs:
+  run:
+    name: Sync-GitHub-to-Gitee
+    runs-on: ubuntu-latest
+    steps:
+    - name: Mirror the Github repos to Gitee.
+      uses: Yikun/hub-mirror-action@master
+      with:
+        src: github/1757580896
+        dst: gitee/sunjianw022
+        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+        dst_token: ${{ secrets.GITEE_TOKEN }}
+        static_list: "iptv-api3"
+        force_update: true
