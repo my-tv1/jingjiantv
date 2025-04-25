@@ -2,3 +2,4 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://live.fanmingming.cn/tv/m3u/demo.m3u
+https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
