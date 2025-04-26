@@ -6,3 +6,5 @@ https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BR
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 https://tv.iill.top/m3u/Gather
 https://raw.githubusercontent.com/ldm0206/iptv-api/refs/heads/master/config/rtp/rtp.m3u
+https://ghfast.top/raw.githubusercontent.com//1757580896/my-iptv/main/IPTV-ipv6.m3u
+https://ghfast.top/raw.githubusercontent.com//1757580896/my-iptv/main/IPTV-ipv4.m3u
