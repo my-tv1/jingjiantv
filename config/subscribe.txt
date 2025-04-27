@@ -103,4 +103,4 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Migu.m3u
 https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CCTV.m3u
 https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CNTV.m3u
 https://raw.githubusercontent.com/my-tv1/Livelist-1/main/IPTV.m3u
-https://raw.githubusercontent.com/my-tv1/Livelist-1/main/Livelist-QI.m
+https://raw.githubusercontent.com/my-tv1/Livelist-1/main/Livelist-QI.m3u
