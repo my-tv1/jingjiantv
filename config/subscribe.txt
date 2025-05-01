@@ -1,4 +1,4 @@
-https://1.v.nxog.top/m/tv/ou.tx # 欧歌cctv源
+https://1.v.nxog.top/m/tv/ou.txt # 欧歌cctv源
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
