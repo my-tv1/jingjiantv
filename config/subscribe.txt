@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://盒子迷.top/ZB
+https://ua.fongmi.eu.org/box.php?url=https://%E7%9B%92%E5%AD%90%E8%BF%B7.top/ZB  # https://盒子迷.top/ZB
 https://1.v.nxog.top/m/tv/ou.txt # 欧歌cctv源
 https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u # 欧歌源码地址
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
