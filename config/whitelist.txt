@@ -9,5 +9,6 @@ https://raw.githubusercontent.com/1757580896/ivp/main/result.m3u
 https://raw.githubusercontent.com/1757580896/ivp3/main/result.m3u 
 
 # https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u%20#%20PltV%20v6
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt # 解
+ # 解
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
 https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81PLTV%E7%A7%BB%E5%8A%A8%2BCDN.m3u
