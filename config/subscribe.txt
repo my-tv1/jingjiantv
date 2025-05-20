@@ -436,7 +436,7 @@ https://ygbh.site/bh.txt
 https://raw.githubusercontent.com/my-tv1/-replace/main/modified_file.txt
 # 易看电视 heilong bei 8888888
 http://117.72.68.25:9230/latest.txt
-# 海燕直播
+# 海燕直播 tingquan
 https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
 # 乘风TV-1.0.0-002
 http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
@@ -459,5 +459,6 @@ http://dd.rihou.cc:555/gggg.nzk
 # http://rihou.cc:555/gggg.nzk
 # 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)  同源 猫TV 肥猫
 # http://rihou.cc:567/gggg.nzk
-
-
+# yikuai
+https://raw.githubusercontent.com/zhsohu88/yingshi/3d36b8c2651673c5d25c1541329dcc42818d68ca/output/user_result.txt
+https://raw.githubusercontent.com/zhsohu88/maoTV/main/output.txt
